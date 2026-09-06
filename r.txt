@@ -1,1 +1,1 @@
-window.MANTLE_ROUTES={mineral:"aHR0cHM6Ly9kb2JiZXJyLmdpdGh1Yi5pby9taW4v",slate:"aHR0cHM6Ly9zbGF0ZS1tYW50bGUubGFuZWVzcG9ydHMuY29t",magma:"aHR0cHM6Ly9hYnlzcy1nb2xkLXRoZXRhLnZlcmNlbC5hcHAv"};
+window.MANTLE_ROUTES={"mineral":"aHR0cHM6Ly9kb2JiZXJyLmdpdGh1Yi5pby9taW4v","slate":"aHR0cHM6Ly9zbGF0ZS1tYW50bGUubGFuZWVzcG9ydHMuY29t","magma":"aHR0cHM6Ly9hYnlzcy1nb2xkLXRoZXRhLnZlcmNlbC5hcHAv"};
